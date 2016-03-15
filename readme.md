@@ -7,4 +7,4 @@
 - to take over the world
 - take over another world
 
-(https://github.com/Aszental "My github profile")
+[my github profile](https://github.com/Aszental "My github profile")
