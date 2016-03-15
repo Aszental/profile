@@ -1,6 +1,7 @@
 # Akiva Szentals Profile
- A
- kiva is a lawyer learning how to code at General Assembly Melbourne 6
+
+---------
+ Akiva is a lawyer learning how to code at General Assembly Melbourne 6
 
 ![Alt text](https://imgflip.com/readImage?iid=15078511)
 
